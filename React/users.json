@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "email": "fathimapahu597@gmail.com",
+      "password": "$2a$10$3k6RNoFTz7i0i4H.c0/jQeeY0GLzL4doLfRDrZKh/QBhdRJ90rTlu",
+      "first_name": "Hanath",
+      "last_name": "Sana Mp",
+      "mobile_no": "807-846-6371",
+      "address": "mahe\nKerala",
+      "usertype": "normal",
+      "age": "22",
+      "id": 3
+    },
+    {
+      "email": "fathimapachu599@gmail.com",
+      "password": "$2a$10$XhOtxvIel6Bu1y8ma6mMX.P6d7TjUwjubSXK0rD.T/LP9F6ytdbau",
+      "first_name": "Fathima",
+      "last_name": "Zubair",
+      "usertype": "normal",
+      "age": "22",
+      "mobile_no": "703-232-1839",
+      "address": "fatheh fathimas",
+      "id": 4
+    },
+    {
+      "email": "fathimapachu597@gmail.com",
+      "password": "$2a$10$XRoMHh.DsewJSm7xf766xO.VFDE5hl0cgKV2u82WYsSfpuuhFhTnG",
+      "first_name": "Fathima",
+      "last_name": "Hina",
+      "mobile_no": "807-846-6371",
+      "address": "Kannur\nKerala",
+      "usertype": "good",
+      "age": "16",
+      "id": 5
+    },
+    {
+      "email": "fath@gmail.com",
+      "password": "$2a$10$x0mlICQjmyd8TT4c.xVnKer6syiAZTZuZ0dca5T2rZIRQJQwz2u3O",
+      "first_name": "sana",
+      "last_name": "khan",
+      "usertype": "regular",
+      "age": "13",
+      "mobile_no": "371-112-2192",
+      "address": "kannur",
+      "id": 6
+    },
+    {
+      "email": "naja@gmail.com",
+      "password": "$2a$10$ZeOZRP.4cqV4vAdoxsBpmuQlr3xd176Qw7DqoSR97dEbNpOdOAk.y",
+      "first_name": "naja",
+      "last_name": "fathima",
+      "usertype": "frequent",
+      "age": "21",
+      "mobile_no": "321-211-3192",
+      "address": "mahe",
+      "id": 7
+    }
+  ]
+}
